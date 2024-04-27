@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thesakshamm
-- 👀 I’m interested in trying to learn the basics inside out.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
+-  I’m interested in trying to learn the basics inside out.
+-  I’m currently learning javascript.
+-  I’m looking to collaborate on ...
 - 📫 How to reach me? you can reach me through https://www.linkedin.com/in/thesaksham/
 
 <!---
